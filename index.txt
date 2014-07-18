@@ -1,1 +1,1 @@
-new test file - updates complete
+This is the index file - completed with additional text.
